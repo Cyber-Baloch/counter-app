@@ -33,7 +33,7 @@ function Footer() {
         </a>
 
       </div>
-      <p className="text-sm text-gray-400">&copy; 2025 Awais Baloch. All rights reserved.</p>
+      <p className="text-sm text-gray-400 mt-2">&copy; 2025 Awais Baloch. All rights reserved.</p>
 
     </footer>
   );
