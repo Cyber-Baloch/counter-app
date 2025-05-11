@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="bg-slate-800 text-white py-6 flex flex-col items-center">
+    <footer className="bg-slate-800 text-white py-6">
       <div className="flex justify-center space-x-6 mb-4">
 
         <a
@@ -33,7 +33,7 @@ function Footer() {
         </a>
 
       </div>
-      <p className="text-sm text-gray-400 mt-2">&copy; 2025 Awais Baloch. All rights reserved.</p>
+      <p className="text-sm text-gray-400 mt-4 text-center">&copy; 2025 Awais Baloch. All rights reserved.</p>
 
     </footer>
   );
